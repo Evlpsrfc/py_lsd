@@ -6,7 +6,7 @@ import numpy
 setup(
     name="py_lsd",
     version="1.6",
-    description="Python Package with C extension for LSD (von Gioi et al, 2010)",
+    description="Python Package with lsd C extension",
     author="Xueyuan Chen",
     author_email="1829401081@stu.suda.edu.cn",
     url="https://www.github.com/Evlpsrfc/py_lsd",
